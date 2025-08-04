@@ -12,8 +12,11 @@ I worked with data from Kaggle, cleaned and transformed it, and built an interac
 What I found:
 
 📊 India has seen phenomenal EV adoption growth over the past few years.
+
 🔌 Public EV charging stations grew from 1,800 in early 2022 to 16,000+ by March 2024.
+
 📉 But the gap is still significant — to meet the projected 40% EV adoption by 2030, India needs ~400,000 new chargers annually (source: industry reports).
+
 🏛 CAFV (Clean Alternative Fuel Vehicle) eligibility — indicates whether a vehicle qualifies for government incentives — plays a role in understanding policy reach and adoption rates.
 
 Difficulties I faced:
