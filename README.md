@@ -9,8 +9,8 @@ I worked with data from Kaggle, cleaned and transformed it, and built an interac
 
 💡 While many dashboards exist on EV adoption, what I focused on differently was connecting the growth of EVs with the pace of charging infrastructure development, and highlighting the gap and its potential impact on India’s EV future.
 
-What I found:
-
+**What I found:
+**
 📊 India has seen phenomenal EV adoption growth over the past few years.
 
 🔌 Public EV charging stations grew from 1,800 in early 2022 to 16,000+ by March 2024.
