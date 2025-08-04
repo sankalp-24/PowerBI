@@ -28,15 +28,19 @@ Difficulties I faced:
 Why this matters:
 
 ⚡ Without enough charging stations, EV adoption can slow due to range anxiety and limited accessibility.
+
 ⚡ The imbalance between EV numbers and charging points can affect user experience, resale value, and confidence in switching from ICE vehicles.
 
 How we can bridge the gap:
 
 ✅ Target high-EV adoption cities first for rapid charger deployment.
+
 ✅ Build public-private partnerships to accelerate infrastructure rollout.
+
 ✅ Use data-driven location planning to ensure maximum coverage and minimal congestion.
 
 This project reinforced one key truth: Data is powerful when it drives action.
+
 The EV movement is not just about selling more cars — it’s about building an ecosystem that supports them.
 
 India is making strong progress in expanding its EV charging network. With continued data-backed planning, we can ensure that infrastructure keeps pace with adoption — moving towards a future where every EV has a charging point within reach. ⚡🚗
